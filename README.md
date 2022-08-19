@@ -1,10 +1,5 @@
 # Introdução ao Docker 
 
-Projeto gerado na videoaula do canal no YouTube Programador a Bordo.
-
-Link da aula:
-https://www.youtube.com/watch?v=Kzcz-EVKBEQ
-
 ## Como rodar
 
 ### Instalando dependências
