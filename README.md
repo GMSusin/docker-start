@@ -1,4 +1,4 @@
-# Introdução ao Docker em 22 minutos
+# Introdução ao Docker 
 
 Projeto gerado na videoaula do canal no YouTube Programador a Bordo.
 
